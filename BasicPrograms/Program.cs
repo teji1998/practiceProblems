@@ -6,9 +6,9 @@ namespace BasicPrograms
     {
         static void Main(string[] args)
         {
-            /* {
+            {
                  Console.WriteLine("Hello World!");
-             }*/
+             }
 
             /* //if else statement
              Console.WriteLine("Enter a number:");
