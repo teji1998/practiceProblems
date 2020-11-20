@@ -66,12 +66,23 @@ namespace BasicPrograms
                 Console.WriteLine("A+ Grade");
             }*/
 
+            /*            //while loop
+                        int i = 1;
+                        while (i <= 10)
+                        {
+                            Console.WriteLine(i);
+                            i++;
+                        }*/
+
+            //do while
             int i = 1;
-            while (i <= 10)
+
+            do
             {
                 Console.WriteLine(i);
                 i++;
-            }
+            } while (i <= 10);
+
         }
     }
 }
