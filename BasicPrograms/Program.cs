@@ -11,7 +11,7 @@ namespace BasicPrograms
                 Console.WriteLine("This is demo");
              }
 
-            /* //if else statement
+            //if else statement
              Console.WriteLine("Enter a number:");
              int num = Convert.ToInt32(Console.ReadLine());
 
@@ -22,7 +22,7 @@ namespace BasicPrograms
              else
              {
                  Console.WriteLine("It is odd number");
-             }*/
+             }
 
             /*  //if statement
               int num = 11;
