@@ -8,6 +8,7 @@ namespace BasicPrograms
         {
             {
                  Console.WriteLine("Hello World!");
+                Console.WriteLine("This is demo");
              }
 
             /* //if else statement

@@ -10,3 +10,4 @@ C:\Users\PRITHVIL5\source\repos\BasicPrograms\BasicPrograms\obj\Debug\netcoreapp
 C:\Users\PRITHVIL5\source\repos\BasicPrograms\BasicPrograms\obj\Debug\netcoreapp3.1\BasicPrograms.dll
 C:\Users\PRITHVIL5\source\repos\BasicPrograms\BasicPrograms\obj\Debug\netcoreapp3.1\BasicPrograms.pdb
 C:\Users\PRITHVIL5\source\repos\BasicPrograms\BasicPrograms\obj\Debug\netcoreapp3.1\BasicPrograms.genruntimeconfig.cache
+C:\Users\PRITHVIL5\source\repos\BasicPrograms\BasicPrograms\obj\Debug\netcoreapp3.1\BasicPrograms.csprojAssemblyReference.cache
